@@ -1439,8 +1439,8 @@ MultiContentEntryText(pos = (830, 8), size = (30, 38),  font = 1, flags = RT_HAL
     <panel name="ScreenTemplateAllColorButtons_menu" />
     <panel name="pigscreen885" />
     <widget source="IF" render="Label" position="36,98" size="550,50" font="Regular; 40" backgroundColor="background" transparent="1" foregroundColor="gold" />
-    <widget source="Statustext" render="Label" position="730,98" size="200,50" font="Regular; 40" backgroundColor="background" transparent="1" foregroundColor="gold" />
-    <widget name="statuspic" position="868,96" size="50,50" pixmaps="skin_default/icons/selectioncross.png,skin_default/icons/redx.png" transparent="1" alphatest="on" zPosition="5" />
+    <widget source="Statustext" render="Label" position="605,98" size="270,50" font="Regular; 40" backgroundColor="background" transparent="1" foregroundColor="gold" text="Collegamento" />
+    <widget name="statuspic" position="875,99" size="50,50" pixmaps="skin_default/icons/selectioncross.png,skin_default/icons/redx.png" transparent="1" alphatest="on" zPosition="5" />
     <widget name="menulist" position="36,200" size="890,400" itemHeight="50" enableWrapAround="1" transparent="1" font="Regular; 30" valign="center" itemGradientSelected="mcolor6,mcolor5,mcolor6,vertical" itemCornerRadius="8" padding="14,0" textPadding="14,0" />
     <eLabel name="" position="1838,1018" size="52,52" backgroundGradient="mcolor3,mcolor4,vertical" halign="center" valign="center" transparent="0" cornerRadius="26" font="Regular; 17" zPosition="1" text="EXIT" />
     <widget source="description" render="Label" position="997,607" size="885,180" font="Regular; 24" halign="left" valign="top" backgroundColor="background" transparent="1" zPosition="55" />
